@@ -7,6 +7,7 @@ public class Runner {
         System.out.println(calculator.add());
         System.out.println(calculator.subtract());
         System.out.println(calculator.multiply());
+        System.out.println(calculator.divide());
 
     }
 }

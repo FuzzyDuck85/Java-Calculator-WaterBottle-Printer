@@ -1,26 +1,34 @@
 public class Calculator {
 
-    private int num1;
-    private int num2;
+    private double num1;
+    private double num2;
 
-    public Calculator(int num1, int num2) {
+    public Calculator(double num1, double num2) {
         this.num1 = num1;
         this.num2 = num2;
     }
 
-    public int getNum1(){
+    public double getNum1(){
         return num1;
     }
 
-    public int getNum2(){
+    public double getNum2(){
         return num2;
     }
 
-    public int add(){
+    public double add(){
         return num1 + num2;
     }
 
-    public int subtract(){
+    public double subtract(){
         return num1 - num2;
+    }
+
+    public double multiply(){
+        return  num1 * num2;
+    }
+
+    public double divide(){
+        return num1 / num2;
     }
 }
