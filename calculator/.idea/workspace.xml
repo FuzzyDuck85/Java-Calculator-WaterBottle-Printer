@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d87c4df-04b7-469f-ad61-1451591ca1f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Printer/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Printer/src/main/java/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Printer/src/test/java/PrinterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterBottle/WaterBottle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterBottle/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterBottle/src/main/java/WaterBottle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterBottle/src/test/java/WaterBottleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterBottle/target/classes/WaterBottle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WaterBottle/target/test-classes/WaterBottleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Printer/target/classes/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Printer/target/test-classes/PrinterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Printer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Printer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Printer/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/src/main/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Printer/src/test/java/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Printer/src/test/java/PrinterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Runner.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
